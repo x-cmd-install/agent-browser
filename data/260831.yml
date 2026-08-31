@@ -1,0 +1,61 @@
+about:
+  description: Browser automation CLI for AI agents
+  license: Apache-2.0
+  homepage: https://agent-browser.dev
+  head: 118af8e
+  archived: false
+  latestVersion: v0.35.1
+  collectedAt: 2026-08-31T05:50:31Z
+timeline:
+  created: 2026-01-11
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-26
+popularity:
+  star: 41602
+  watcher: 103
+  fork: 2762
+  release: 104
+  contributor: 131
+  pullRequest: 549
+  issue: 594
+language:
+  Rust: 3104680
+  TypeScript: 341733
+  JavaScript: 59809
+  Shell: 23802
+  HTML: 9827
+  CSS: 5407
+totalLine: 3545258
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 4
+    mergedPR: 17
+    openPR: 37
+    closedIssue: 2
+    openIssue: 40
+    commit: 16
+  last90d:
+    since: 2026-06-02
+    release: 21
+    mergedPR: 69
+    openPR: 121
+    closedIssue: 9
+    openIssue: 99
+    commit: 69
+  last180d:
+    since: 2026-03-04
+    release: 71
+    mergedPR: 356
+    openPR: 258
+    closedIssue: 150
+    openIssue: 222
+    commit: 334
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 594
+    openPR: 333
+    closedIssue: 248
+    openIssue: 346
+    commit: 646
