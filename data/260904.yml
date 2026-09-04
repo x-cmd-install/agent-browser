@@ -7,13 +7,13 @@ about:
   head: 4a98df7
   archived: false
   latestVersion: v0.36.0
-  collectedAt: 2026-09-04T19:51:35Z
+  collectedAt: 2026-09-04T20:48:52Z
 timeline:
   created: 2026-01-11
   lastCommit: 2026-09-03
   lastRelease: 2026-09-01
 popularity:
-  star: 41949
+  star: 41954
   watcher: 106
   fork: 2797
   release: 106
@@ -85,5 +85,78 @@ total:
   openIssue: 357
   commit: 655
 ---
+path: /home/runner/.x-repo/github.com/vercel-labs/agent-browser
+collectedAt: 2026-09-04T20:48:55Z
+loc:
+  Rust:
+    code: 79263
+    comments: 2371
+    blanks: 8091
+    files: 81
+  Json:
+    code: 36330
+    comments: 0
+    blanks: 0
+    files: 27
+  Yaml:
+    code: 27444
+    comments: 11
+    blanks: 3967
+    files: 8
+  Tsx:
+    code: 12245
+    comments: 139
+    blanks: 1200
+    files: 123
+  TypeScript:
+    code: 5584
+    comments: 292
+    blanks: 678
+    files: 83
+  JavaScript:
+    code: 1623
+    comments: 139
+    blanks: 212
+    files: 19
+  Css:
+    code: 715
+    comments: 10
+    blanks: 93
+    files: 4
+  Sh:
+    code: 457
+    comments: 161
+    blanks: 113
+    files: 9
+  Html:
+    code: 96
+    comments: 0
+    blanks: 0
+    files: 7
+  Toml:
+    code: 56
+    comments: 0
+    blanks: 7
+    files: 1
+  Svg:
+    code: 36
+    comments: 28
+    blanks: 0
+    files: 6
+  Markdown:
+    code: 0
+    comments: 4071
+    blanks: 2326
+    files: 38
+  Text:
+    code: 0
+    comments: 324
+    blanks: 104
+    files: 2
+total:
+  code: 165906
+  comments: 9763
+  blanks: 17133
+  files: 408
 ---
 
