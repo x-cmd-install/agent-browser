@@ -1,0 +1,194 @@
+about:
+  description: "Browser automation CLI for AI agents"
+  license: Apache-2.0
+  homepage: https://agent-browser.dev
+  head: 4726ece
+  archived: false
+  latestVersion: "v0.36.0"
+  collectedAt: 2026-09-07T05:49:12Z
+timeline:
+  created: 2026-01-11
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-01
+popularity:
+  star: 42069
+  watcher: 106
+  fork: 2806
+  release: 106
+  contributor: 133
+  pullRequest: 1190
+  issue: 612
+language:
+  Rust: 3242074
+  TypeScript: 341733
+  JavaScript: 59809
+  Shell: 23802
+  HTML: 13480
+  CSS: 5407
+totalBytes: 3686305
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 5
+    mergedPR: 21
+    openPR: 55
+    closedIssue: 3
+    openIssue: 43
+    commit: 21
+  last60d:
+    since: 2026-07-09
+    release: 14
+    mergedPR: 53
+    openPR: 111
+    closedIssue: 6
+    openIssue: 86
+    commit: 50
+  last90d:
+    since: 2026-06-09
+    release: 23
+    mergedPR: 75
+    openPR: 142
+    closedIssue: 9
+    openIssue: 110
+    commit: 71
+  last180d:
+    since: 2026-03-11
+    release: 68
+    mergedPR: 330
+    openPR: 260
+    closedIssue: 130
+    openIssue: 229
+    commit: 240
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 601
+    openPR: 353
+    closedIssue: 262
+    openIssue: 350
+    commit: 653
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 601
+    openPR: 353
+    closedIssue: 262
+    openIssue: 350
+    commit: 656
+total:
+  release: 106
+  mergedPR: 601
+  openPR: 353
+  closedIssue: 262
+  openIssue: 350
+  commit: 656
+---
+path: /home/runner/.x-repo/github.com/vercel-labs/agent-browser
+collectedAt: 2026-09-07T05:49:16Z
+loc:
+  Rust:
+    code: 79533
+    comments: 2371
+    blanks: 8118
+    files: 81
+  Json:
+    code: 36330
+    comments: 0
+    blanks: 0
+    files: 27
+  Yaml:
+    code: 27444
+    comments: 11
+    blanks: 3967
+    files: 8
+  Tsx:
+    code: 12245
+    comments: 139
+    blanks: 1200
+    files: 123
+  TypeScript:
+    code: 5584
+    comments: 292
+    blanks: 678
+    files: 83
+  JavaScript:
+    code: 1623
+    comments: 139
+    blanks: 212
+    files: 19
+  Css:
+    code: 715
+    comments: 10
+    blanks: 93
+    files: 4
+  Sh:
+    code: 457
+    comments: 161
+    blanks: 113
+    files: 9
+  Html:
+    code: 107
+    comments: 0
+    blanks: 0
+    files: 8
+  Toml:
+    code: 56
+    comments: 0
+    blanks: 7
+    files: 1
+  Svg:
+    code: 36
+    comments: 28
+    blanks: 0
+    files: 6
+  Markdown:
+    code: 0
+    comments: 4071
+    blanks: 2326
+    files: 38
+  Text:
+    code: 0
+    comments: 324
+    blanks: 104
+    files: 2
+total:
+  code: 166202
+  comments: 9765
+  blanks: 17160
+  files: 409
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:49:16+00:00
+  platform:
+    darwin/arm64:
+      name:  agent-browser-darwin-arm64
+      url:   https://github.com/vercel-labs/agent-browser/releases/download/v0.36.0/agent-browser-darwin-arm64
+      size:  12363200
+      score: 40
+    darwin/amd64:
+      name:  agent-browser-darwin-x64
+      url:   https://github.com/vercel-labs/agent-browser/releases/download/v0.36.0/agent-browser-darwin-x64
+      size:  13510280
+      score: 40
+    linux/arm64:
+      name:  agent-browser-linux-musl-arm64
+      url:   https://github.com/vercel-labs/agent-browser/releases/download/v0.36.0/agent-browser-linux-musl-arm64
+      size:  12297000
+      score: 40
+    linux/amd64:
+      name:  agent-browser-linux-x64
+      url:   https://github.com/vercel-labs/agent-browser/releases/download/v0.36.0/agent-browser-linux-x64
+      size:  14156776
+      score: 40
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  agent-browser-win32-x64.exe
+      url:   https://github.com/vercel-labs/agent-browser/releases/download/v0.36.0/agent-browser-win32-x64.exe
+      size:  13837312
+      score: 40
