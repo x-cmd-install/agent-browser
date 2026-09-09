@@ -1,0 +1,165 @@
+about:
+  description: "Browser automation CLI for AI agents"
+  license: Apache-2.0
+  homepage: https://agent-browser.dev
+  head: 72007a6
+  archived: false
+  latestVersion: "v0.37.1"
+  latestRelease: "v0.37.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:53:09Z
+timeline:
+  created: 2026-01-11
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 
+popularity:
+  star: 42261
+  watcher: 107
+  fork: 2819
+  release: 108
+  contributor: 133
+  pullRequest: 1200
+  issue: 612
+language:
+  Rust: 3334050
+  TypeScript: 341733
+  JavaScript: 59809
+  Shell: 23802
+  HTML: 13480
+  CSS: 5407
+totalBytes: 3778281
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 7
+    mergedPR: 27
+    openPR: 55
+    closedIssue: 3
+    openIssue: 42
+    commit: 28
+  last60d:
+    since: 2026-07-11
+    release: 16
+    mergedPR: 58
+    openPR: 111
+    closedIssue: 5
+    openIssue: 86
+    commit: 57
+  last90d:
+    since: 2026-06-11
+    release: 24
+    mergedPR: 79
+    openPR: 142
+    closedIssue: 12
+    openIssue: 107
+    commit: 78
+  last180d:
+    since: 2026-03-13
+    release: 69
+    mergedPR: 311
+    openPR: 260
+    closedIssue: 123
+    openIssue: 225
+    commit: 247
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 608
+    openPR: 354
+    closedIssue: 264
+    openIssue: 348
+    commit: 660
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 608
+    openPR: 354
+    closedIssue: 264
+    openIssue: 348
+    commit: 663
+total:
+  release: 108
+  mergedPR: 608
+  openPR: 354
+  closedIssue: 264
+  openIssue: 348
+  commit: 663
+---
+path: /home/runner/.x-repo/github.com/vercel-labs/agent-browser
+collectedAt: 2026-09-09T05:53:12Z
+loc:
+  Rust:
+    code: 81649
+    comments: 2436
+    blanks: 8320
+    files: 83
+  Json:
+    code: 36330
+    comments: 0
+    blanks: 0
+    files: 27
+  Yaml:
+    code: 27444
+    comments: 11
+    blanks: 3967
+    files: 8
+  Tsx:
+    code: 12245
+    comments: 139
+    blanks: 1200
+    files: 123
+  TypeScript:
+    code: 5584
+    comments: 292
+    blanks: 678
+    files: 83
+  JavaScript:
+    code: 1623
+    comments: 139
+    blanks: 212
+    files: 19
+  Css:
+    code: 715
+    comments: 10
+    blanks: 93
+    files: 4
+  Sh:
+    code: 457
+    comments: 161
+    blanks: 113
+    files: 9
+  Html:
+    code: 107
+    comments: 0
+    blanks: 0
+    files: 8
+  Toml:
+    code: 56
+    comments: 0
+    blanks: 7
+    files: 1
+  Svg:
+    code: 36
+    comments: 28
+    blanks: 0
+    files: 6
+  Markdown:
+    code: 0
+    comments: 4104
+    blanks: 2352
+    files: 38
+  Text:
+    code: 0
+    comments: 324
+    blanks: 104
+    files: 2
+total:
+  code: 168322
+  comments: 10004
+  blanks: 17395
+  files: 411
+---
+
+---
