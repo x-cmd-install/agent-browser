@@ -2,98 +2,98 @@ about:
   description: "Browser automation CLI for AI agents"
   license: Apache-2.0
   homepage: https://agent-browser.dev
-  head: 72007a6
+  head: 921a57b
   archived: false
   latestVersion: "v0.37.1"
   latestRelease: "v0.37.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:53:09Z
+  collectedAt: 2026-09-09T20:25:15Z
 timeline:
   created: 2026-01-11
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 42261
+  star: 42307
   watcher: 107
-  fork: 2819
+  fork: 2823
   release: 108
-  contributor: 133
-  pullRequest: 1200
+  contributor: 134
+  pullRequest: 1204
   issue: 612
 language:
-  Rust: 3334050
+  Rust: 3400018
   TypeScript: 341733
   JavaScript: 59809
   Shell: 23802
   HTML: 13480
   CSS: 5407
-totalBytes: 3778281
+totalBytes: 3844249
 recent:
   last30d:
     since: 2026-08-10
     release: 7
-    mergedPR: 27
-    openPR: 55
-    closedIssue: 3
-    openIssue: 42
-    commit: 28
+    mergedPR: 29
+    openPR: 57
+    closedIssue: 5
+    openIssue: 40
+    commit: 30
   last60d:
     since: 2026-07-11
     release: 16
-    mergedPR: 58
-    openPR: 111
-    closedIssue: 5
-    openIssue: 86
-    commit: 57
+    mergedPR: 60
+    openPR: 113
+    closedIssue: 8
+    openIssue: 83
+    commit: 59
   last90d:
     since: 2026-06-11
     release: 24
-    mergedPR: 79
-    openPR: 142
-    closedIssue: 12
-    openIssue: 107
-    commit: 78
+    mergedPR: 81
+    openPR: 144
+    closedIssue: 15
+    openIssue: 104
+    commit: 80
   last180d:
     since: 2026-03-13
     release: 69
-    mergedPR: 311
-    openPR: 260
-    closedIssue: 123
-    openIssue: 225
-    commit: 247
+    mergedPR: 313
+    openPR: 262
+    closedIssue: 126
+    openIssue: 222
+    commit: 249
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 608
-    openPR: 354
-    closedIssue: 264
-    openIssue: 348
-    commit: 660
+    mergedPR: 610
+    openPR: 356
+    closedIssue: 267
+    openIssue: 345
+    commit: 662
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 608
-    openPR: 354
-    closedIssue: 264
-    openIssue: 348
-    commit: 663
+    mergedPR: 610
+    openPR: 356
+    closedIssue: 267
+    openIssue: 345
+    commit: 665
 total:
   release: 108
-  mergedPR: 608
-  openPR: 354
-  closedIssue: 264
-  openIssue: 348
-  commit: 663
+  mergedPR: 610
+  openPR: 356
+  closedIssue: 267
+  openIssue: 345
+  commit: 665
 ---
 path: /home/runner/.x-repo/github.com/vercel-labs/agent-browser
-collectedAt: 2026-09-09T05:53:12Z
+collectedAt: 2026-09-09T20:25:20Z
 loc:
   Rust:
-    code: 81649
-    comments: 2436
-    blanks: 8320
+    code: 83271
+    comments: 2441
+    blanks: 8454
     files: 83
   Json:
     code: 36330
@@ -147,8 +147,8 @@ loc:
     files: 6
   Markdown:
     code: 0
-    comments: 4104
-    blanks: 2352
+    comments: 4130
+    blanks: 2370
     files: 38
   Text:
     code: 0
@@ -156,9 +156,9 @@ loc:
     blanks: 104
     files: 2
 total:
-  code: 168322
-  comments: 10004
-  blanks: 17395
+  code: 169961
+  comments: 10049
+  blanks: 17547
   files: 411
 ---
 
