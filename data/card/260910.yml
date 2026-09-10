@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.37.1"
   latestRelease: "v0.37.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:51:29Z
+  collectedAt: 2026-09-10T20:28:16Z
 timeline:
   created: 2026-01-11
   lastCommit: 2026-09-10
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 42319
+  star: 42365
   watcher: 107
   fork: 2827
   release: 108
   contributor: 135
   pullRequest: 1204
-  issue: 612
+  issue: 613
 language:
   Rust: 3411588
   TypeScript: 341733
@@ -37,7 +37,7 @@ recent:
     mergedPR: 29
     openPR: 53
     closedIssue: 6
-    openIssue: 37
+    openIssue: 38
     commit: 31
   last60d:
     since: 2026-07-12
@@ -45,7 +45,7 @@ recent:
     mergedPR: 61
     openPR: 111
     closedIssue: 9
-    openIssue: 79
+    openIssue: 80
     commit: 60
   last90d:
     since: 2026-06-12
@@ -53,14 +53,14 @@ recent:
     mergedPR: 81
     openPR: 141
     closedIssue: 16
-    openIssue: 100
+    openIssue: 101
     commit: 81
   last180d:
     since: 2026-03-14
     release: 68
     mergedPR: 285
     openPR: 260
-    closedIssue: 122
+    closedIssue: 123
     openIssue: 219
     commit: 250
   last360d:
@@ -68,7 +68,7 @@ recent:
     release: 100
     mergedPR: 611
     openPR: 354
-    closedIssue: 268
+    closedIssue: 269
     openIssue: 344
     commit: 663
   last720d:
@@ -76,19 +76,19 @@ recent:
     release: 100
     mergedPR: 611
     openPR: 354
-    closedIssue: 268
+    closedIssue: 269
     openIssue: 344
     commit: 666
 total:
   release: 108
   mergedPR: 611
   openPR: 354
-  closedIssue: 268
+  closedIssue: 269
   openIssue: 344
   commit: 666
 ---
 path: /home/runner/.x-repo/github.com/vercel-labs/agent-browser
-collectedAt: 2026-09-10T05:51:34Z
+collectedAt: 2026-09-10T20:28:20Z
 loc:
   Rust:
     code: 83583
