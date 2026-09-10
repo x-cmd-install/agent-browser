@@ -12,36 +12,7 @@ Browser automation CLI for AI agents
 x install agent-browser
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/vercel-labs/agent-browser>
-- **Homepage**: <https://agent-browser.dev>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.37.1` (2026-09-08)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 7
-- **Published**: 2026-09-08T16:05:56Z
-
-## Popularity
-
-- **Stars**: 42,319 · **Forks**: 2,827 · **Open issues**: 612 · **Contributors**: 135
-
-## Totals (cumulative)
-
-- **Releases**: 108 · **Merged PRs**: 611 · **Open PRs**: 354 · **Closed issues**: 268 · **Open issues**: 344 · **Commits**: 666
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 29 | 53 | 6 | 37 | 31 |
-| 90d | 2026-06-12 | 24 | 81 | 141 | 16 | 100 | 81 |
-| 360d | 2025-09-15 | 100 | 611 | 354 | 268 | 344 | 663 |
-
-## Code size
+## Code insight
 
 Total: **168,180** lines of code across **324** files in the top 5 languages.
 
@@ -53,13 +24,65 @@ Total: **168,180** lines of code across **324** files in the top 5 languages.
 | Tsx | 12,245 | 139 | 1,200 | 123 |
 | TypeScript | 5,584 | 292 | 678 | 83 |
 
+## Source
+
+- **Upstream**: <https://github.com/vercel-labs/agent-browser>
+- **Homepage**: <https://agent-browser.dev>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.37.1` (2026-09-08)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 42,365 · **Forks**: 2,827 · **Open issues**: 613 · **Contributors**: 135
+
+## Totals (cumulative)
+
+- **Releases**: 108 · **Merged PRs**: 611 · **Open PRs**: 354 · **Closed issues**: 269 · **Open issues**: 344 · **Commits**: 666
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 7 | 29 | 53 | 6 | 38 | 31 |
+| last60d | 2026-07-12 | 16 | 61 | 111 | 9 | 80 | 60 |
+| 90d | 2026-06-12 | 24 | 81 | 141 | 16 | 101 | 81 |
+| last180d | 2026-03-14 | 68 | 285 | 260 | 123 | 219 | 250 |
+| 360d | 2025-09-15 | 100 | 611 | 354 | 269 | 344 | 663 |
+| last720d | 2024-09-20 | 100 | 611 | 354 | 269 | 344 | 666 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-darwin-arm64) | 11.9 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-darwin-x64) | 13.0 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-linux-arm64) | 11.9 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-linux-musl-arm64) | 11.8 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-linux-musl-x64) | 13.4 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-linux-x64) | 13.6 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-win32-x64.exe) | 13.3 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/agent-browser). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.37.1` | ✅ latest |
+| Nix unstable | `0.36.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for agent-browser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `agent-browser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/agent-browser.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/agent-browser.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:51:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:28:25Z._
