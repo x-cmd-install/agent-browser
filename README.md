@@ -38,22 +38,22 @@ Total: **168,183** lines of code across **324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,420 · **Forks**: 2,832 · **Open issues**: 619 · **Contributors**: 136
+- **Stars**: 42,439 · **Forks**: 2,834 · **Open issues**: 619 · **Contributors**: 136
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 612 · **Open PRs**: 352 · **Closed issues**: 269 · **Open issues**: 350 · **Commits**: 667
+- **Releases**: 108 · **Merged PRs**: 612 · **Open PRs**: 353 · **Closed issues**: 269 · **Open issues**: 350 · **Commits**: 667
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 6 | 30 | 51 | 6 | 43 | 32 |
-| last60d | 2026-07-13 | 16 | 60 | 106 | 9 | 85 | 61 |
-| 90d | 2026-06-13 | 23 | 82 | 138 | 16 | 107 | 82 |
-| last180d | 2026-03-15 | 62 | 262 | 258 | 112 | 225 | 251 |
-| 360d | 2025-09-16 | 100 | 612 | 352 | 269 | 350 | 664 |
-| last720d | 2024-09-21 | 100 | 612 | 352 | 269 | 350 | 667 |
+| 30d | 2026-08-13 | 6 | 30 | 52 | 6 | 42 | 32 |
+| last60d | 2026-07-14 | 15 | 58 | 106 | 9 | 83 | 61 |
+| 90d | 2026-06-14 | 23 | 82 | 138 | 16 | 107 | 82 |
+| last180d | 2026-03-16 | 56 | 249 | 259 | 109 | 224 | 251 |
+| 360d | 2025-09-17 | 100 | 612 | 353 | 269 | 350 | 664 |
+| last720d | 2024-09-22 | 100 | 612 | 353 | 269 | 350 | 667 |
 
 ## Release assets
 
@@ -67,6 +67,15 @@ Total: **168,183** lines of code across **324** files in the top 5 languages.
 | [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-linux-x64) | 13.6 MiB | `other` |
 | [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.37.1/agent-browser-win32-x64.exe) | 13.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/agent-browser). **4** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.37.1` | ✅ latest |
+| Nix unstable | `0.36.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for agent-browser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `agent-browser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +85,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:05:17Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:40:31Z._
