@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15570496,
       "digest": "sha256:8168b86ab5d94be8f670992dfe4fe1445016518a864b48bda105e64142e7cbf9",
-      "download_count": 281,
+      "download_count": 416,
       "created_at": "2026-10-01T21:44:25Z",
       "updated_at": "2026-10-01T21:44:26Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 17210352,
       "digest": "sha256:787cb40e086a188d0bb13ff29a99a0b2380aff3aa5e8600b8f8131a0b98ca69c",
-      "download_count": 41,
+      "download_count": 63,
       "created_at": "2026-10-01T21:44:25Z",
       "updated_at": "2026-10-01T21:44:26Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-darwin-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15633664,
       "digest": "sha256:690c02d952de8497bba4f8cc58b59acbf27dc27b346755869b518f4b411c7f40",
-      "download_count": 106,
+      "download_count": 137,
       "created_at": "2026-10-01T21:44:25Z",
       "updated_at": "2026-10-01T21:44:26Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15418440,
       "digest": "sha256:eafeca9ca0fdb2fa2aa60c4554723348c739656b0ddba0d82ff654d4d33311b1",
-      "download_count": 21,
+      "download_count": 30,
       "created_at": "2026-10-01T21:44:25Z",
       "updated_at": "2026-10-01T21:44:26Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-musl-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17863544,
       "digest": "sha256:993d462f4dcfc19860d93a6521a452eba4502bfc449fe0120303c2ccb998e675",
-      "download_count": 108,
+      "download_count": 159,
       "created_at": "2026-10-01T21:44:25Z",
       "updated_at": "2026-10-01T21:44:26Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-musl-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18084048,
       "digest": "sha256:a54b765192db774666f0513fa8b545a298753b6f29e73bcdf4a1e78f18e7c0e1",
-      "download_count": 848,
+      "download_count": 1217,
       "created_at": "2026-10-01T21:44:26Z",
       "updated_at": "2026-10-01T21:44:27Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-x64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 17694720,
       "digest": "sha256:a6a9a3654c41ee19c05961b73489db98cff9eae88a77436986df08a7a7a73786",
-      "download_count": 213,
+      "download_count": 256,
       "created_at": "2026-10-01T21:44:26Z",
       "updated_at": "2026-10-01T21:44:28Z",
       "browser_download_url": "https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-win32-x64.exe"
