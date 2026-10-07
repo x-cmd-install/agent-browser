@@ -14,11 +14,11 @@ x install agent-browser
 
 ## Code insight
 
-Total: **183,504** lines of code across **310** files in the top 5 languages.
+Total: **183,537** lines of code across **310** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 92,498 | 2,512 | 8,884 | 85 |
+| Rust | 92,531 | 2,521 | 8,889 | 85 |
 | Json | 44,154 | 0 | 0 | 32 |
 | Yaml | 23,801 | 11 | 2,647 | 7 |
 | Tsx | 12,150 | 131 | 1,134 | 90 |
@@ -38,22 +38,22 @@ Total: **183,504** lines of code across **310** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 43,555 · **Forks**: 2,942 · **Open issues**: 707 · **Contributors**: 147
+- **Stars**: 43,587 · **Forks**: 2,944 · **Open issues**: 710 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 639 · **Open PRs**: 424 · **Closed issues**: 300 · **Open issues**: 407 · **Commits**: 694
+- **Releases**: 111 · **Merged PRs**: 640 · **Open PRs**: 423 · **Closed issues**: 301 · **Open issues**: 409 · **Commits**: 695
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 5 | 32 | 105 | 19 | 80 | 27 |
-| last60d | 2026-08-07 | 10 | 60 | 139 | 27 | 117 | 59 |
-| 90d | 2026-07-08 | 19 | 91 | 195 | 31 | 158 | 91 |
-| last180d | 2026-04-09 | 33 | 147 | 275 | 61 | 248 | 145 |
-| 360d | 2025-10-11 | 100 | 639 | 424 | 300 | 407 | 691 |
-| last720d | 2024-10-16 | 100 | 639 | 424 | 300 | 407 | 694 |
+| 30d | 2026-09-07 | 5 | 25 | 103 | 20 | 80 | 28 |
+| last60d | 2026-08-08 | 10 | 60 | 139 | 28 | 118 | 60 |
+| 90d | 2026-07-09 | 19 | 92 | 190 | 32 | 160 | 92 |
+| last180d | 2026-04-10 | 33 | 147 | 274 | 61 | 248 | 146 |
+| 360d | 2025-10-12 | 100 | 640 | 423 | 301 | 409 | 692 |
+| last720d | 2024-10-17 | 100 | 640 | 423 | 301 | 409 | 695 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:24:48Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:53:19Z._
