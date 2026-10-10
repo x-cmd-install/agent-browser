@@ -32,40 +32,40 @@ Total: **184,515** lines of code across **313** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.38.2` (2026-10-01)
-- **Last commit**: 2026-10-08
+- **Latest**: `v0.39.0` (2026-10-09)
+- **Last commit**: 2026-10-09
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 43,704 · **Forks**: 2,960 · **Open issues**: 718 · **Contributors**: 148
+- **Stars**: 43,739 · **Forks**: 2,961 · **Open issues**: 721 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 642 · **Open PRs**: 428 · **Closed issues**: 303 · **Open issues**: 415 · **Commits**: 697
+- **Releases**: 112 · **Merged PRs**: 643 · **Open PRs**: 428 · **Closed issues**: 303 · **Open issues**: 418 · **Commits**: 698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 3 | 24 | 102 | 21 | 85 | 30 |
-| last60d | 2026-08-10 | 10 | 61 | 143 | 28 | 123 | 62 |
-| 90d | 2026-07-11 | 19 | 92 | 195 | 31 | 166 | 94 |
-| last180d | 2026-04-12 | 33 | 144 | 277 | 61 | 251 | 148 |
-| 360d | 2025-10-14 | 100 | 642 | 428 | 303 | 415 | 694 |
-| last720d | 2024-10-19 | 100 | 642 | 428 | 303 | 415 | 697 |
+| 30d | 2026-09-10 | 4 | 24 | 103 | 21 | 87 | 31 |
+| last60d | 2026-08-11 | 11 | 61 | 142 | 28 | 124 | 63 |
+| 90d | 2026-07-12 | 20 | 93 | 195 | 31 | 166 | 95 |
+| last180d | 2026-04-13 | 33 | 145 | 277 | 59 | 254 | 149 |
+| 360d | 2025-10-15 | 100 | 643 | 428 | 303 | 418 | 695 |
+| last720d | 2024-10-20 | 100 | 643 | 428 | 303 | 418 | 698 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-darwin-arm64) | 14.8 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-darwin-x64) | 16.4 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-arm64) | 14.9 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-musl-arm64) | 14.7 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-musl-x64) | 17.0 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-linux-x64) | 17.2 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.38.2/agent-browser-win32-x64.exe) | 16.9 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-darwin-arm64) | 15.1 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-darwin-x64) | 16.6 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-arm64) | 15.1 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-musl-arm64) | 14.9 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-musl-x64) | 17.3 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-x64) | 17.5 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-win32-x64.exe) | 17.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:01:16Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:37:34Z._
