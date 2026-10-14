@@ -32,40 +32,40 @@ x install agent-browser
 
 ## 发布
 
-- **最新版本**: `v0.39.0` (2026-10-09)
-- **最近提交**: 2026-10-11
+- **最新版本**: `v0.39.1` (2026-10-13)
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 43,877 · **Fork**: 2,980 · **开放 issue**: 729 · **贡献者**: 149
+- **Star**: 43,938 · **Fork**: 2,981 · **开放 issue**: 730 · **贡献者**: 149
 
 ## 累计统计
 
-- **发布数**: 112 · **已合并 PR**: 644 · **开放 PR**: 439 · **已关闭 issue**: 304 · **开放 issue**: 425 · **提交数**: 699
+- **发布数**: 113 · **已合并 PR**: 645 · **开放 PR**: 439 · **已关闭 issue**: 304 · **开放 issue**: 426 · **提交数**: 700
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 4 | 24 | 109 | 21 | 88 | 0 |
-| last60d | 2026-08-14 | 10 | 62 | 152 | 29 | 129 | 0 |
-| 90d | 2026-07-15 | 19 | 86 | 199 | 32 | 170 | 0 |
-| last180d | 2026-04-16 | 33 | 133 | 285 | 60 | 258 | 0 |
-| 360d | 2025-10-18 | 100 | 644 | 439 | 304 | 425 | 0 |
-| last720d | 2024-10-23 | 100 | 644 | 439 | 304 | 425 | 699 |
+| 30d | 2026-09-14 | 5 | 25 | 105 | 21 | 89 | 19 |
+| last60d | 2026-08-15 | 11 | 63 | 149 | 29 | 129 | 65 |
+| 90d | 2026-07-16 | 19 | 84 | 196 | 32 | 169 | 84 |
+| last180d | 2026-04-17 | 32 | 133 | 283 | 59 | 255 | 133 |
+| 360d | 2025-10-19 | 100 | 645 | 439 | 304 | 426 | 697 |
+| last720d | 2024-10-24 | 100 | 645 | 439 | 304 | 426 | 700 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-darwin-arm64) | 15.1 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-darwin-x64) | 16.6 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-arm64) | 15.1 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-musl-arm64) | 14.9 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-musl-x64) | 17.3 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-linux-x64) | 17.5 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.0/agent-browser-win32-x64.exe) | 17.1 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-darwin-arm64) | 15.1 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-darwin-x64) | 16.6 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-arm64) | 15.1 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-musl-arm64) | 14.9 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-musl-x64) | 17.3 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-x64) | 17.5 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-win32-x64.exe) | 17.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ agent-browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:51:01Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:47:36Z._
