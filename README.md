@@ -38,22 +38,22 @@ Total: **185,017** lines of code across **313** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 44,060 · **Forks**: 2,990 · **Open issues**: 736 · **Contributors**: 150
+- **Stars**: 44,108 · **Forks**: 2,997 · **Open issues**: 740 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 648 · **Open PRs**: 452 · **Closed issues**: 307 · **Open issues**: 429 · **Commits**: 703
+- **Releases**: 113 · **Merged PRs**: 648 · **Open PRs**: 442 · **Closed issues**: 395 · **Open issues**: 345 · **Commits**: 703
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 5 | 21 | 111 | 24 | 87 | 22 |
-| last60d | 2026-08-17 | 11 | 66 | 163 | 32 | 131 | 68 |
-| 90d | 2026-07-18 | 17 | 85 | 207 | 35 | 172 | 87 |
-| last180d | 2026-04-19 | 32 | 135 | 294 | 61 | 254 | 136 |
-| 360d | 2025-10-21 | 100 | 648 | 452 | 307 | 429 | 700 |
-| last720d | 2024-10-26 | 100 | 648 | 452 | 307 | 429 | 703 |
+| 30d | 2026-09-17 | 3 | 19 | 115 | 25 | 87 | 22 |
+| last60d | 2026-08-18 | 11 | 66 | 168 | 35 | 132 | 68 |
+| 90d | 2026-07-19 | 17 | 83 | 209 | 38 | 171 | 87 |
+| last180d | 2026-04-20 | 32 | 134 | 297 | 74 | 243 | 136 |
+| 360d | 2025-10-22 | 100 | 648 | 442 | 395 | 345 | 700 |
+| last720d | 2024-10-27 | 100 | 648 | 442 | 395 | 345 | 703 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:33:59Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:12:23Z._
