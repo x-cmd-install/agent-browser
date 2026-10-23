@@ -32,40 +32,49 @@ x install agent-browser
 
 ## 发布
 
-- **最新版本**: `v0.39.1` (2026-10-13)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.39.2` (2026-10-22)
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 44,401 · **Fork**: 3,035 · **开放 issue**: 750 · **贡献者**: 157
+- **Star**: 44,449 · **Fork**: 3,042 · **开放 issue**: 752 · **贡献者**: 158
 
 ## 累计统计
 
-- **发布数**: 113 · **已合并 PR**: 658 · **开放 PR**: 363 · **已关闭 issue**: 414 · **开放 issue**: 336 · **提交数**: 711
+- **发布数**: 114 · **已合并 PR**: 659 · **开放 PR**: 369 · **已关闭 issue**: 414 · **开放 issue**: 338 · **提交数**: 712
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 26 | 92 | 17 | 56 | 26 |
-| last60d | 2026-08-23 | 11 | 74 | 175 | 45 | 127 | 67 |
-| 90d | 2026-07-24 | 14 | 86 | 198 | 49 | 166 | 86 |
-| last180d | 2026-04-25 | 32 | 144 | 280 | 84 | 233 | 144 |
-| 360d | 2025-10-27 | 100 | 658 | 363 | 414 | 336 | 708 |
-| last720d | 2024-11-01 | 100 | 658 | 363 | 414 | 336 | 711 |
+| 30d | 2026-09-23 | 4 | 27 | 94 | 17 | 53 | 27 |
+| last60d | 2026-08-24 | 12 | 73 | 181 | 44 | 129 | 68 |
+| 90d | 2026-07-25 | 15 | 87 | 204 | 49 | 168 | 87 |
+| last180d | 2026-04-26 | 33 | 145 | 286 | 84 | 234 | 145 |
+| 360d | 2025-10-28 | 100 | 659 | 369 | 414 | 338 | 709 |
+| last720d | 2024-11-02 | 100 | 659 | 369 | 414 | 338 | 712 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-darwin-arm64) | 15.1 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-darwin-x64) | 16.6 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-arm64) | 15.1 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-musl-arm64) | 14.9 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-musl-x64) | 17.3 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-linux-x64) | 17.5 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.1/agent-browser-win32-x64.exe) | 17.1 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-darwin-arm64) | 15.1 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-darwin-x64) | 16.7 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-linux-arm64) | 15.1 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-linux-musl-arm64) | 15.0 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-linux-musl-x64) | 17.3 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-linux-x64) | 17.5 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.39.2/agent-browser-win32-x64.exe) | 17.1 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/agent-browser) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.39.2` | ✅ latest |
+| Nix unstable | `0.39.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -76,4 +85,4 @@ agent-browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:43:14Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:46:24Z._
