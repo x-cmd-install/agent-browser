@@ -2,9 +2,9 @@
   srcname: agent-browser
   binname: agent-browser
   visiblename: agent-browser
-  version: 0.41.0
-  origversion: 0.41.0-1
-  status: outdated
+  version: 0.41.1
+  origversion: 0.41.1-1
+  status: newest
   summary: Headless browser automation CLI for AI agents
   maintainers:
     - anjanaya@aur
@@ -43,7 +43,7 @@
 - repo: nix_unstable
   srcname: agent-browser
   visiblename: agent-browser
-  version: 0.39.1
+  version: 0.41.0
   origversion: null
   status: outdated
   summary: Headless browser automation CLI for AI agents
