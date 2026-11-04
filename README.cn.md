@@ -14,12 +14,12 @@ x install agent-browser
 
 ## 代码洞察
 
-合计: **210,200** 行代码（覆盖前 5 种语言、共 **349** 个文件）。
+合计: **202,003** 行代码（覆盖前 5 种语言、共 **358** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 102,534 | 2,586 | 9,659 | 96 |
-| Json | 60,512 | 0 | 0 | 35 |
+| Rust | 105,530 | 2,633 | 9,906 | 105 |
+| Json | 49,319 | 0 | 0 | 35 |
 | Yaml | 24,007 | 11 | 2,660 | 7 |
 | Tsx | 12,138 | 131 | 1,133 | 90 |
 | TypeScript | 6,121 | 335 | 741 | 121 |
@@ -32,49 +32,49 @@ x install agent-browser
 
 ## 发布
 
-- **最新版本**: `v0.41.1` (2026-11-01)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v0.41.2` (2026-11-03)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 45,324 · **Fork**: 3,109 · **开放 issue**: 777 · **贡献者**: 181
+- **Star**: 45,447 · **Fork**: 3,118 · **开放 issue**: 776 · **贡献者**: 188
 
 ## 累计统计
 
-- **发布数**: 119 · **已合并 PR**: 733 · **开放 PR**: 316 · **已关闭 issue**: 547 · **开放 issue**: 230 · **提交数**: 786
+- **发布数**: 120 · **已合并 PR**: 752 · **开放 PR**: 314 · **已关闭 issue**: 609 · **开放 issue**: 167 · **提交数**: 801
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 8 | 91 | 71 | 27 | 46 | 89 |
-| last60d | 2026-09-04 | 13 | 126 | 136 | 79 | 91 | 123 |
-| 90d | 2026-08-05 | 18 | 154 | 155 | 104 | 117 | 153 |
-| last180d | 2026-05-07 | 38 | 214 | 232 | 159 | 166 | 213 |
-| 360d | 2025-11-08 | 100 | 733 | 316 | 547 | 230 | 783 |
-| last720d | 2024-11-13 | 100 | 733 | 316 | 547 | 230 | 786 |
+| 30d | 2026-10-05 | 9 | 110 | 70 | 31 | 41 | 104 |
+| last60d | 2026-09-05 | 14 | 145 | 134 | 93 | 77 | 138 |
+| 90d | 2026-08-06 | 19 | 173 | 154 | 122 | 95 | 168 |
+| last180d | 2026-05-08 | 38 | 233 | 230 | 187 | 134 | 228 |
+| 360d | 2025-11-09 | 100 | 752 | 314 | 609 | 167 | 798 |
+| last720d | 2024-11-14 | 100 | 752 | 314 | 609 | 167 | 801 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-darwin-arm64) | 15.2 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-darwin-x64) | 16.8 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-linux-arm64) | 15.2 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-linux-musl-arm64) | 15.0 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-linux-musl-x64) | 17.4 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-linux-x64) | 17.6 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.1/agent-browser-win32-x64.exe) | 17.2 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-darwin-arm64) | 15.3 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-darwin-x64) | 16.9 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-linux-arm64) | 15.4 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-linux-musl-arm64) | 15.2 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-linux-musl-x64) | 17.6 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-linux-x64) | 17.8 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.41.2/agent-browser-win32-x64.exe) | 17.4 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/agent-browser) 上共有 **6** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/agent-browser) 上共有 **6** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.41.1` | ✅ latest |
-| Nix unstable | `0.41.0` | ⚠️ outdated |
+| Homebrew | `0.41.2` | ✅ latest |
+| Nix unstable | `0.41.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ agent-browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:50:42Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:25:39Z._
