@@ -14,12 +14,12 @@ x install agent-browser
 
 ## Code insight
 
-Total: **214,165** lines of code across **369** files in the top 5 languages.
+Total: **214,489** lines of code across **369** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 117,415 | 2,838 | 10,558 | 116 |
-| Json | 49,517 | 0 | 0 | 35 |
+| Rust | 117,721 | 2,838 | 10,575 | 116 |
+| Json | 49,535 | 0 | 0 | 35 |
 | Yaml | 24,085 | 12 | 2,667 | 7 |
 | Tsx | 12,138 | 131 | 1,133 | 90 |
 | TypeScript | 6,121 | 335 | 741 | 121 |
@@ -38,22 +38,22 @@ Total: **214,165** lines of code across **369** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 45,577 · **Forks**: 3,136 · **Open issues**: 780 · **Contributors**: 187
+- **Stars**: 46,115 · **Forks**: 3,157 · **Open issues**: 781 · **Contributors**: 189
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 757 · **Open PRs**: 318 · **Closed issues**: 612 · **Open issues**: 168 · **Commits**: 806
+- **Releases**: 120 · **Merged PRs**: 761 · **Open PRs**: 325 · **Closed issues**: 614 · **Open issues**: 167 · **Commits**: 810
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 9 | 112 | 75 | 29 | 45 | 109 |
-| last60d | 2026-09-06 | 14 | 150 | 137 | 92 | 81 | 143 |
-| 90d | 2026-08-07 | 19 | 178 | 158 | 119 | 99 | 173 |
-| last180d | 2026-05-09 | 38 | 238 | 231 | 190 | 135 | 233 |
-| 360d | 2025-11-10 | 100 | 757 | 318 | 612 | 168 | 803 |
-| last720d | 2024-11-15 | 100 | 757 | 318 | 612 | 168 | 806 |
+| 30d | 2026-10-07 | 9 | 116 | 82 | 28 | 45 | 113 |
+| last60d | 2026-09-07 | 14 | 146 | 143 | 91 | 81 | 147 |
+| 90d | 2026-08-08 | 19 | 181 | 165 | 120 | 98 | 177 |
+| last180d | 2026-05-10 | 38 | 242 | 238 | 188 | 134 | 237 |
+| 360d | 2025-11-11 | 100 | 761 | 325 | 614 | 167 | 807 |
+| last720d | 2024-11-16 | 100 | 761 | 325 | 614 | 167 | 810 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:50:23Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:18Z._
