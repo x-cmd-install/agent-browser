@@ -14,14 +14,14 @@ x install agent-browser
 
 ## Code insight
 
-Total: **214,489** lines of code across **369** files in the top 5 languages.
+Total: **216,624** lines of code across **372** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 117,721 | 2,838 | 10,575 | 116 |
-| Json | 49,535 | 0 | 0 | 35 |
-| Yaml | 24,085 | 12 | 2,667 | 7 |
-| Tsx | 12,138 | 131 | 1,133 | 90 |
+| Rust | 122,117 | 2,960 | 10,971 | 119 |
+| Json | 49,551 | 0 | 0 | 35 |
+| Yaml | 21,814 | 12 | 2,480 | 7 |
+| Tsx | 12,138 | 139 | 1,133 | 90 |
 | TypeScript | 6,121 | 335 | 741 | 121 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **214,489** lines of code across **369** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.41.2` (2026-11-03)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 46,115 · **Forks**: 3,157 · **Open issues**: 781 · **Contributors**: 189
+- **Stars**: 46,346 · **Forks**: 3,175 · **Open issues**: 781 · **Contributors**: 189
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 761 · **Open PRs**: 325 · **Closed issues**: 614 · **Open issues**: 167 · **Commits**: 810
+- **Releases**: 120 · **Merged PRs**: 767 · **Open PRs**: 324 · **Closed issues**: 616 · **Open issues**: 165 · **Commits**: 816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 9 | 116 | 82 | 28 | 45 | 113 |
-| last60d | 2026-09-07 | 14 | 146 | 143 | 91 | 81 | 147 |
-| 90d | 2026-08-08 | 19 | 181 | 165 | 120 | 98 | 177 |
-| last180d | 2026-05-10 | 38 | 242 | 238 | 188 | 134 | 237 |
-| 360d | 2025-11-11 | 100 | 761 | 325 | 614 | 167 | 807 |
-| last720d | 2024-11-16 | 100 | 761 | 325 | 614 | 167 | 810 |
+| 30d | 2026-10-08 | 9 | 122 | 80 | 26 | 40 | 119 |
+| last60d | 2026-09-08 | 14 | 149 | 140 | 90 | 80 | 153 |
+| 90d | 2026-08-09 | 19 | 187 | 164 | 121 | 97 | 183 |
+| last180d | 2026-05-11 | 38 | 248 | 237 | 188 | 133 | 243 |
+| 360d | 2025-11-12 | 100 | 767 | 324 | 616 | 165 | 813 |
+| last720d | 2024-11-17 | 100 | 767 | 324 | 616 | 165 | 816 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:46:18Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:54:37Z._
