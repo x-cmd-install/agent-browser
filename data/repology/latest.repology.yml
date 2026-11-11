@@ -2,9 +2,9 @@
   srcname: agent-browser
   binname: agent-browser
   visiblename: agent-browser
-  version: 0.41.2
-  origversion: 0.41.2-1
-  status: outdated
+  version: 0.42.0
+  origversion: 0.42.0-1
+  status: newest
   summary: Headless browser automation CLI for AI agents
   maintainers:
     - anjanaya@aur
@@ -25,10 +25,24 @@
 - repo: homebrew
   srcname: agent-browser
   visiblename: agent-browser
+  version: 0.42.0
+  origversion: null
+  status: newest
+  summary: Browser automation CLI for AI agents
+- repo: macports
+  srcname: llm/agent-browser
+  binname: agent-browser
+  visiblename: agent-browser
   version: 0.41.2
   origversion: null
   status: outdated
   summary: Browser automation CLI for AI agents
+  maintainers:
+    - wu21-web@github
+  licenses:
+    - Apache-2
+  categories:
+    - llm
 - repo: nix_stable_26_05
   srcname: agent-browser
   visiblename: agent-browser
