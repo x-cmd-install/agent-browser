@@ -14,11 +14,11 @@ x install agent-browser
 
 ## Code insight
 
-Total: **225,777** lines of code across **382** files in the top 5 languages.
+Total: **225,898** lines of code across **382** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 130,272 | 3,179 | 11,433 | 122 |
+| Rust | 130,393 | 3,179 | 11,435 | 122 |
 | Json | 49,854 | 0 | 0 | 42 |
 | Yaml | 21,915 | 12 | 2,503 | 7 |
 | Tsx | 12,144 | 141 | 1,133 | 90 |
@@ -38,22 +38,22 @@ Total: **225,777** lines of code across **382** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 51,318 · **Forks**: 3,584 · **Open issues**: 804 · **Contributors**: 193
+- **Stars**: 51,771 · **Forks**: 3,623 · **Open issues**: 807 · **Contributors**: 193
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 793 · **Open PRs**: 405 · **Closed issues**: 631 · **Open issues**: 173 · **Commits**: 840
+- **Releases**: 122 · **Merged PRs**: 794 · **Open PRs**: 413 · **Closed issues**: 632 · **Open issues**: 175 · **Commits**: 841
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 9 | 132 | 165 | 21 | 43 | 128 |
-| last60d | 2026-09-16 | 14 | 165 | 220 | 93 | 86 | 155 |
-| 90d | 2026-08-17 | 20 | 210 | 247 | 126 | 105 | 202 |
-| last180d | 2026-05-19 | 40 | 272 | 318 | 188 | 142 | 265 |
-| 360d | 2025-11-20 | 100 | 793 | 405 | 631 | 173 | 838 |
-| last720d | 2024-11-25 | 100 | 793 | 405 | 631 | 173 | 840 |
+| 30d | 2026-10-17 | 9 | 133 | 171 | 22 | 45 | 129 |
+| last60d | 2026-09-17 | 12 | 164 | 226 | 91 | 88 | 156 |
+| 90d | 2026-08-18 | 20 | 211 | 255 | 127 | 107 | 203 |
+| last180d | 2026-05-20 | 40 | 272 | 326 | 189 | 144 | 266 |
+| 360d | 2025-11-21 | 100 | 794 | 413 | 632 | 175 | 839 |
+| last720d | 2024-11-26 | 100 | 794 | 413 | 632 | 175 | 841 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:44:17Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:04:38Z._
