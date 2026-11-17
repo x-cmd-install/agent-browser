@@ -38,7 +38,7 @@
   status: outdated
   summary: Browser automation CLI for AI agents
   maintainers:
-    - wu21-web@github
+    - nomaintainer@macports.org
   licenses:
     - Apache-2
   categories:
