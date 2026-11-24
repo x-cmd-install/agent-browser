@@ -14,15 +14,15 @@ x install agent-browser
 
 ## 代码洞察
 
-合计: **245,064** 行代码（覆盖前 5 种语言、共 **450** 个文件）。
+合计: **249,741** 行代码（覆盖前 5 种语言、共 **451** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 141,443 | 3,372 | 12,277 | 126 |
-| Json | 50,012 | 0 | 0 | 43 |
-| Yaml | 21,920 | 12 | 2,503 | 7 |
-| Tsx | 15,856 | 1,108 | 1,456 | 134 |
-| TypeScript | 7,697 | 786 | 852 | 140 |
+| Rust | 145,889 | 3,454 | 12,494 | 126 |
+| Json | 50,055 | 0 | 0 | 43 |
+| Yaml | 21,950 | 12 | 2,504 | 7 |
+| Tsx | 15,943 | 1,114 | 1,471 | 134 |
+| TypeScript | 7,717 | 788 | 856 | 141 |
 
 ## 源代码
 
@@ -32,40 +32,40 @@ x install agent-browser
 
 ## 发布
 
-- **最新版本**: `v0.43.0` (2026-11-12)
-- **最近提交**: 2026-11-21
+- **最新版本**: `v0.44.0` (2026-11-23)
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 53,486 · **Fork**: 3,745 · **开放 issue**: 828 · **贡献者**: 203
+- **Star**: 53,705 · **Fork**: 3,768 · **开放 issue**: 828 · **贡献者**: 205
 
 ## 累计统计
 
-- **发布数**: 122 · **已合并 PR**: 824 · **开放 PR**: 413 · **已关闭 issue**: 661 · **开放 issue**: 167 · **提交数**: 871
+- **发布数**: 123 · **已合并 PR**: 832 · **开放 PR**: 412 · **已关闭 issue**: 682 · **开放 issue**: 146 · **提交数**: 879
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 8 | 143 | 171 | 26 | 47 | 120 |
-| last60d | 2026-09-24 | 12 | 191 | 219 | 69 | 73 | 186 |
-| 90d | 2026-08-25 | 20 | 234 | 264 | 144 | 103 | 222 |
-| last180d | 2026-05-27 | 40 | 301 | 323 | 210 | 138 | 292 |
-| 360d | 2025-11-28 | 100 | 824 | 413 | 661 | 167 | 869 |
-| last720d | 2024-12-03 | 100 | 824 | 413 | 661 | 167 | 871 |
+| 30d | 2026-10-25 | 9 | 149 | 167 | 27 | 45 | 128 |
+| last60d | 2026-09-25 | 13 | 199 | 217 | 72 | 69 | 194 |
+| 90d | 2026-08-26 | 20 | 240 | 263 | 150 | 93 | 230 |
+| last180d | 2026-05-28 | 41 | 309 | 322 | 222 | 126 | 300 |
+| 360d | 2025-11-29 | 100 | 832 | 412 | 682 | 146 | 877 |
+| last720d | 2024-12-04 | 100 | 832 | 412 | 682 | 146 | 879 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-darwin-arm64) | 16.9 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-darwin-x64) | 18.6 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-linux-arm64) | 17.0 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-linux-musl-arm64) | 16.8 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-linux-musl-x64) | 19.3 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-linux-x64) | 19.5 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.43.0/agent-browser-win32-x64.exe) | 19.1 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-darwin-arm64) | 17.3 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-darwin-x64) | 19.0 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-arm64) | 17.4 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-musl-arm64) | 17.2 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-musl-x64) | 19.7 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-x64) | 19.9 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-win32-x64.exe) | 19.5 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -73,7 +73,7 @@ x install agent-browser
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.43.0` | ✅ latest |
+| Homebrew | `0.44.0` | ✅ latest |
 | Nix unstable | `0.41.1` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -85,4 +85,4 @@ agent-browser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:18:10Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:41:44Z._
