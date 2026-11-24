@@ -14,8 +14,8 @@
   srcname: agent-browser-bin
   binname: agent-browser-bin
   visiblename: agent-browser-bin
-  version: 0.43.0
-  origversion: 0.43.0-1
+  version: 0.44.0
+  origversion: 0.44.0-1
   status: newest
   summary: Fast browser automation CLI for AI agents (native binary)
   maintainers:
@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: agent-browser
   visiblename: agent-browser
-  version: 0.43.0
+  version: 0.44.0
   origversion: null
   status: newest
   summary: Browser automation CLI for AI agents
@@ -70,7 +70,7 @@
   subrepo: main
   binname: agent-browser
   visiblename: agent-browser
-  version: 0.43.0
+  version: 0.44.0
   origversion: null
   status: newest
   licenses:
