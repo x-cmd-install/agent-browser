@@ -14,11 +14,11 @@ x install agent-browser
 
 ## Code insight
 
-Total: **292,936** lines of code across **482** files in the top 5 languages.
+Total: **293,370** lines of code across **482** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 188,278 | 3,546 | 15,378 | 155 |
+| Rust | 188,712 | 3,545 | 15,420 | 155 |
 | Json | 50,129 | 0 | 0 | 43 |
 | Yaml | 21,950 | 12 | 2,504 | 7 |
 | Tsx | 16,055 | 1,114 | 1,472 | 134 |
@@ -32,40 +32,40 @@ Total: **292,936** lines of code across **482** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.44.0` (2026-11-23)
-- **Last commit**: 2026-11-25
+- **Latest**: `v0.45.0` (2026-11-25)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 53,872 · **Forks**: 3,770 · **Open issues**: 831 · **Contributors**: 222
+- **Stars**: 54,055 · **Forks**: 3,774 · **Open issues**: 836 · **Contributors**: 222
 
 ## Totals (cumulative)
 
-- **Releases**: 123 · **Merged PRs**: 850 · **Open PRs**: 367 · **Closed issues**: 706 · **Open issues**: 125 · **Commits**: 897
+- **Releases**: 124 · **Merged PRs**: 853 · **Open PRs**: 377 · **Closed issues**: 708 · **Open issues**: 128 · **Commits**: 900
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 9 | 159 | 143 | 38 | 36 | 146 |
-| last60d | 2026-09-26 | 13 | 217 | 183 | 83 | 57 | 212 |
-| 90d | 2026-08-27 | 19 | 258 | 224 | 165 | 81 | 248 |
-| last180d | 2026-05-29 | 41 | 327 | 278 | 245 | 105 | 318 |
-| 360d | 2025-11-30 | 100 | 850 | 367 | 706 | 125 | 895 |
-| last720d | 2024-12-05 | 100 | 850 | 367 | 706 | 125 | 897 |
+| 30d | 2026-10-27 | 8 | 157 | 160 | 37 | 39 | 149 |
+| last60d | 2026-09-27 | 14 | 216 | 196 | 83 | 61 | 215 |
+| 90d | 2026-08-28 | 20 | 261 | 239 | 165 | 84 | 251 |
+| last180d | 2026-05-30 | 42 | 330 | 290 | 246 | 109 | 321 |
+| 360d | 2025-12-01 | 100 | 853 | 377 | 708 | 128 | 898 |
+| last720d | 2024-12-06 | 100 | 853 | 377 | 708 | 128 | 900 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-darwin-arm64) | 17.3 MiB | `native/darwin/arm64` |
-| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-darwin-x64) | 19.0 MiB | `native/darwin/x64` |
-| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-arm64) | 17.4 MiB | `native/linux/arm64` |
-| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-musl-arm64) | 17.2 MiB | `native/linux/arm64/musl` |
-| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-musl-x64) | 19.7 MiB | `other` |
-| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-linux-x64) | 19.9 MiB | `other` |
-| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.44.0/agent-browser-win32-x64.exe) | 19.5 MiB | `native/win/x64` |
+| [agent-browser-darwin-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-darwin-arm64) | 19.2 MiB | `native/darwin/arm64` |
+| [agent-browser-darwin-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-darwin-x64) | 21.1 MiB | `native/darwin/x64` |
+| [agent-browser-linux-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-linux-arm64) | 19.3 MiB | `native/linux/arm64` |
+| [agent-browser-linux-musl-arm64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-linux-musl-arm64) | 19.0 MiB | `native/linux/arm64/musl` |
+| [agent-browser-linux-musl-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-linux-musl-x64) | 21.9 MiB | `other` |
+| [agent-browser-linux-x64](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-linux-x64) | 22.1 MiB | `other` |
+| [agent-browser-win32-x64.exe](https://github.com/vercel-labs/agent-browser/releases/download/v0.45.0/agent-browser-win32-x64.exe) | 21.6 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for agent-browser lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:20:06Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:12:26Z._
